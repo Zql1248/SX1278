@@ -2,13 +2,21 @@
  * Author Wojciech Domski <Wojciech.Domski@gmail.com>
  * www: www.Domski.pl
  *
+
  * work based on DORJI.COM sample code and
- * https://github.com/realspinner/SX1278_LoRa
+ * https://github.com/realspinner/SX1278_LoRa测试
  */
+
+
+
+
+
+
+
+
 
 #include "SX1278.h"
 #include <string.h>
-
 #include "gpio.h"
 #include "spi.h"
 
